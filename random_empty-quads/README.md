@@ -1,1 +1,0 @@
-Randomly generated transparent quads
