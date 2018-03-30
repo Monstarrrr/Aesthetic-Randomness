@@ -1,1 +1,1 @@
-Randomly generated transparent quads
+Quads Drawings - Transparent

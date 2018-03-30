@@ -1,1 +1,1 @@
-Randomly generated colored quads with "time" limit
+Quads Drawings - Colored + Time limit

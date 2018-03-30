@@ -1,1 +1,1 @@
-Randomly generated colored quads
+Quads Drawings - Colored 
